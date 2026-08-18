@@ -4385,7 +4385,6 @@
   metadata: '{}'
   review_status: reviewed
 
-
 # --- Polistemics (arXiv:2607.25953) ---
 # display_name is benchmark-scoped ("Polistemics Rubric Score", NOT bare
 # "Rubric Score"): the seed auto-aliases display_name, and a generic
